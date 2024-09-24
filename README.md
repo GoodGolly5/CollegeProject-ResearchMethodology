@@ -1,2 +1,1 @@
-# fictional-octo-broccoli
-RAG-based QA Model for Indonesia's NCVS Documents
+RAG-based Q&A Model for Indonesia's NCVS Documents
